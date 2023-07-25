@@ -1,5 +1,4 @@
-Calculates the *inner* disc lifetime in Myr based on the stellar mass-dependent models of Picogna et al. (2019, 2021) and Ercolano (2021).
-The only inputs needed are the stellar mass in solar masses and the X-ray luminosity in erg/s.
+Calculates the *inner* disc lifetime in Myr as described in Monsch et al. (2020). The only inputs needed are the stellar mass in solar masses and the X-ray luminosity in erg/s.
 
 
 How to use:

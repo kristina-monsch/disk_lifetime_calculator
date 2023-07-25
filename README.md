@@ -3,4 +3,4 @@ Calculates the *inner* disc lifetime in Myr as described in Monsch et al. (2020)
 
 How to use:
 
-python disk_lifetime_calculator.py Mstar[Msun] Lx[erg/s]
+``python disk_lifetime_calculator.py Mstar[Msun] Lx[erg/s]``

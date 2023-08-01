@@ -8,7 +8,7 @@ def main():
     This script caculates a disk lifetime for given stellar mass and X-ray luminosity.
     You call it via
     
-    python demo.py Mstar Lx
+    python disk_lifetime_calculator.py Mstar Lx
     
     where Mstar is the stellar mass in units of solar masses and Lx is the corresponding X-ray luminosity in units of erg/s. The resulting disk lifetime is then given in units of million years.
     """
